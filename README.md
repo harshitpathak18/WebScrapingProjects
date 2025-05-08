@@ -4,7 +4,7 @@ This repository contains various web scraping projects that help automate the ex
 
 ---
 
-### 1. [**Bookings**](https://github.com/harshitpathak18/WebScrapingProjects/tree/a41659a1f679b457c6db56d2001a318d2786a7fa/Bookings)
+### 1. [**Bookings**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/Bookings)
 
 **Description:**
 This project scrapes data from **Booking.com** to fetch information about hotels listed for a specific date and location. The scraper extracts key details about each hotel, such as hotel name, location, price, availability, and ratings. It allows users to get an overview of available accommodations, helping them make informed decisions when planning their stay.
@@ -17,7 +17,7 @@ This project scrapes data from **Booking.com** to fetch information about hotels
 
 ---
 
-### 2. [**E-Commerce Price Comparison**](https://github.com/harshitpathak18/WebScrapingProjects/tree/a41659a1f679b457c6db56d2001a318d2786a7fa/E-Commerce_Price_Comparison)
+### 2. [**E-Commerce Price Comparison**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/E-Commerce_Price_Comparison)
 
 **Description:**
 This project scrapes **Amazon** and **Flipkart** to fetch the prices of products based on a search query. The scraper extracts product details, including the price and other relevant data, from both e-commerce platforms and compares them to identify which platform offers the lowest price for a specific item.
@@ -30,7 +30,7 @@ This project scrapes **Amazon** and **Flipkart** to fetch the prices of products
 
 ---
 
-### 3. [**Latest Movie Tracker**](https://github.com/harshitpathak18/WebScrapingProjects/tree/a41659a1f679b457c6db56d2001a318d2786a7fa/Latest_Movie_Tracker)
+### 3. [**Latest Movie Tracker**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/Latest_Movie_Tracker)
 
 **Description:**
 This project scrapes recent movie and TV show releases from multiple sources, including **IMDb**, **Rotten Tomatoes**, and **BookMyShow**. It aggregates information about the latest releases and their ratings, providing users with a comprehensive view of what to watch next.
@@ -43,7 +43,7 @@ This project scrapes recent movie and TV show releases from multiple sources, in
 
 ---
 
-### 4. [**News Aggregator**](https://github.com/harshitpathak18/WebScrapingProjects/tree/a41659a1f679b457c6db56d2001a318d2786a7fa/News_Aggregator)
+### 4. [**News Aggregator**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/News_Aggregator)
 
 **Description:**
 This project scrapes news data from top news websites such as **The India Express**, **NBC**, and **Times of India**. It aggregates news articles from these sources, providing a unified platform where users can get the latest news on various topics, including politics, technology, entertainment, and more.
@@ -56,7 +56,7 @@ This project scrapes news data from top news websites such as **The India Expres
 
 ---
 
-### 5. [**YouTube Trending Scraper**](https://github.com/harshitpathak18/WebScrapingProjects/tree/a41659a1f679b457c6db56d2001a318d2786a7fa/YouTube_Trending_Scraper)
+### 5. [**YouTube Trending Scraper**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/YouTube_Trending_Scraper)
 
 **Description:**
 This project scrapes the **Trending YouTube Videos** data to track the most popular videos across different categories. The scraper extracts details such as video title, URL, views, and upload date, giving users an overview of the trending content on YouTube.
