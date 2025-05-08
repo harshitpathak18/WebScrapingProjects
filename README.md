@@ -14,7 +14,7 @@ This project scrapes data from **Booking.com** to fetch information about hotels
 **Key Features:**
 
 * Scrapes hotels for a given location and date.
-* Extracts hotel name, location, price, availability, and ratings.
+* Extracts hotel name, location, price, and ratings.
 * Helps users compare accommodations for better decision-making.
 
 ---
