@@ -4,7 +4,7 @@ This repository contains various web scraping projects that help automate the ex
 
 ---
 
-### 1. **Bookings**
+### 1. [**Bookings**](#Bookings)
 
 **Description:**
 This project scrapes data from **Booking.com** to fetch information about hotels listed for a specific date and location. The scraper extracts key details about each hotel, such as hotel name, location, price, availability, and ratings. It allows users to get an overview of available accommodations, helping them make informed decisions when planning their stay.
@@ -68,3 +68,4 @@ This project scrapes the **Trending YouTube Videos** data to track the most popu
 * Helps users stay updated on the latest trending content.
 
 ---
+
