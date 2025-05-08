@@ -21,6 +21,8 @@ This project scrapes data from **Booking.com** to fetch information about hotels
 
 ### 2. [**E-Commerce Price Comparison**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/E-Commerce_Price_Comparison)
 
+![](https://i.ytimg.com/vi/c6VQiYqzfDc/maxresdefault.jpg)
+
 **Description:**
 This project scrapes **Amazon** and **Flipkart** to fetch the prices of products based on a search query. The scraper extracts product details, including the price and other relevant data, from both e-commerce platforms and compares them to identify which platform offers the lowest price for a specific item.
 
@@ -33,6 +35,8 @@ This project scrapes **Amazon** and **Flipkart** to fetch the prices of products
 ---
 
 ### 3. [**Latest Movie Tracker**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/Latest_Movie_Tracker)
+
+![](https://ironsoftware.com/img/tutorials/webscraping-in-c-sharp/123movies.jpg)
 
 **Description:**
 This project scrapes recent movie and TV show releases from multiple sources, including **IMDb**, **Rotten Tomatoes**, and **BookMyShow**. It aggregates information about the latest releases and their ratings, providing users with a comprehensive view of what to watch next.
@@ -47,6 +51,8 @@ This project scrapes recent movie and TV show releases from multiple sources, in
 
 ### 4. [**News Aggregator**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/News_Aggregator)
 
+![](https://www.cozmoslabs.com/wp-content/uploads/2024/08/how-to-build-a-news-aggregator.png)
+
 **Description:**
 This project scrapes news data from top news websites such as **The India Express**, **NBC**, and **Times of India**. It aggregates news articles from these sources, providing a unified platform where users can get the latest news on various topics, including politics, technology, entertainment, and more.
 
@@ -59,6 +65,8 @@ This project scrapes news data from top news websites such as **The India Expres
 ---
 
 ### 5. [**YouTube Trending Scraper**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/YouTube_Trending_Scraper)
+
+![](https://www.searchenginejournal.com/wp-content/uploads/2020/12/2ff5499e-0bf8-4ffc-b205-e496aca01204-5fe397b4e68ca-1280x720.jpeg)
 
 **Description:**
 This project scrapes the **Trending YouTube Videos** data to track the most popular videos across different categories. The scraper extracts details such as video title, URL, views, and upload date, giving users an overview of the trending content on YouTube.
