@@ -6,6 +6,8 @@ This repository contains various web scraping projects that help automate the ex
 
 ### 1. [**Bookings**](https://github.com/harshitpathak18/WebScrapingProjects/tree/main/Bookings)
 
+![](https://miro.medium.com/v2/resize:fit:1200/1*URpoSa8WMVTXDvLBGw-9Yg.png)
+
 **Description:**
 This project scrapes data from **Booking.com** to fetch information about hotels listed for a specific date and location. The scraper extracts key details about each hotel, such as hotel name, location, price, availability, and ratings. It allows users to get an overview of available accommodations, helping them make informed decisions when planning their stay.
 
